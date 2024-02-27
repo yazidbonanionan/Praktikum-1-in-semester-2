@@ -1,0 +1,4 @@
+<?php
+ // definisikan variables
+ phpinfo();
+ ?>
